@@ -7,13 +7,13 @@ public class Tentativa1
 {
     public static void main(String[] args) 
     {
-        File file = new File("Tp1/Banco-de-dados/livros.db");
+        File file = new File("TP1/Banco-de-dados/livros.db");
         file.delete();
 
-        File file2 = new File("Tp1/Banco-de-dados/livros.hash_d.db");
+        File file2 = new File("TP1/Banco-de-dados/livros.hash_d.db");
         file2.delete();
 
-        File file3 = new File("Tp1/Banco-de-dados/livros.hash_c.db");
+        File file3 = new File("TP1/Banco-de-dados/livros.hash_c.db");
         file3.delete();
 
         Arquivo<Livro> arqLivros;
