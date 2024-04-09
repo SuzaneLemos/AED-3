@@ -1,16 +1,16 @@
 # AED-3 -> TP 1
 ALUNOS: Suzane Lemos de Lima, Júlio Cesar Gonzaga Ferreira Silva e Guilherme Henrique Vieira Nascimento.
 
-Vocês implementaram todos os requisitos?
+- Vocês implementaram todos os requisitos?
 Sim, tudo que pensamos e tentamos colocar depois de várias tentativas, nós conseguimos.
 
-Houve alguma operação mais difícil?
+- Houve alguma operação mais difícil?
 Sim, usar a operação create corretamente foi com certeza a tarefa mais difícil.
 
-Vocês enfrentaram algum desafio na implementação?
+- Vocês enfrentaram algum desafio na implementação?
 Sim, tivemos problema com os create como dissemos na pergunta anterior, mas a interpretação do código do professor foi difícil para nosso grupo.
 
-Os resultados foram alcançados?
+- Os resultados foram alcançados?
 Sim, depois de muito custo, conseguimos chegar onde queríamos.
 
 //--------------------------------------------------------------------------------------------------------------------------------------------------//
